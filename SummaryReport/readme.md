@@ -5,10 +5,10 @@
 
 <h2><b><a href="https://github.com/twice1st/CS112.L21.N7/tree/main/Seminar_CS112.L21.N07">N07_SEMINAR: BRANCH AND BOUND</a></b></h1>
 
-##**1. Báo cáo phân công công việc và tiến độ mỗi thành viên**
+## **1. Báo cáo phân công công việc và tiến độ mỗi thành viên**
 
-##**2. Biên bản buổi thảo luận**
+## **2. Biên bản buổi thảo luận**
 
-##**3. Đánh giá bài tập về nhà**
+## **3. Đánh giá bài tập về nhà**
 
-##**4. Bảng mô tả các bài thực hành**
+## **4. Bảng mô tả các bài thực hành**
