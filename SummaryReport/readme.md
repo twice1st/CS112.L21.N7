@@ -9,7 +9,7 @@
 - [PDF](https://github.com/twice1st/CS112.L21.N7/blob/main/SummaryReport/PhanCongCV%2BTheoDoi.pdf)
 
 ## **2. Biên bản buổi thảo luận + Đánh giá bài tập về nhà**
-- [Docx](https://github.com/twice1st/CS112.L21.N7/blob/main/SummaryReport/BienBan%2BDanhGiaBTVN.docx)
+- [PDF](https://github.com/twice1st/CS112.L21.N7/blob/main/SummaryReport/MoTaTH.pdf)
 
 ## **3. Bảng mô tả các bài thực hành**
-- [Docx](https://github.com/twice1st/CS112.L21.N7/blob/main/SummaryReport/MoTaTH.docx)
+- [PDF](https://github.com/twice1st/CS112.L21.N7/blob/main/SummaryReport/BienBan%2BDanhGiaBTVN.pdf)
