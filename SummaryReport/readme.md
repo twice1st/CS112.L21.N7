@@ -6,7 +6,7 @@
 <h2><b><a href="https://github.com/twice1st/CS112.L21.N7/tree/main/Seminar_CS112.L21.N07">N07_SEMINAR: BRANCH AND BOUND</a></b></h1>
 
 ## **1. Báo cáo phân công công việc và tiến độ mỗi thành viên**
-- [Docx](https://github.com/twice1st/CS112.L21.N7/blob/main/SummaryReport/PhanCongCV%2BTheoDoi.docx)
+- [PDF](https://github.com/twice1st/CS112.L21.N7/blob/main/SummaryReport/PhanCongCV%2BTheoDoi.pdf)
 
 ## **2. Biên bản buổi thảo luận + Đánh giá bài tập về nhà**
 - [Docx](https://github.com/twice1st/CS112.L21.N7/blob/main/SummaryReport/BienBan%2BDanhGiaBTVN.docx)
