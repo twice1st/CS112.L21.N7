@@ -8,10 +8,8 @@
 ## **1. Báo cáo phân công công việc và tiến độ mỗi thành viên**
 - [Docx](https://github.com/twice1st/CS112.L21.N7/blob/main/SummaryReport/PhanCongCV%2BTheoDoi.docx)
 
-## **2. Biên bản buổi thảo luận**
+## **2. Biên bản buổi thảo luận + Đánh giá bài tập về nhà**
 - [Docx](https://github.com/twice1st/CS112.L21.N7/blob/main/SummaryReport/BienBan%2BDanhGiaBTVN.docx)
 
-## **3. Đánh giá bài tập về nhà**
-
-## **4. Bảng mô tả các bài thực hành**
+## **3. Bảng mô tả các bài thực hành**
 - [Docx](https://github.com/twice1st/CS112.L21.N7/blob/main/SummaryReport/MoTaTH.docx)
